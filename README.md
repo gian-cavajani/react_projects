@@ -1,7 +1,3 @@
-#### Tutorial Video
-
-(React Tutorial)[https://youtu.be/iZhV0bILFb0]
-
 #### All Projects
 
 [Projects Site](https://react-projects.netlify.app/)
@@ -56,3 +52,7 @@
 21. Movie DB
 22. Hacker News
 23. Quiz
+
+#### Tutorial Video
+
+(React Tutorial)[https://youtu.be/iZhV0bILFb0]
